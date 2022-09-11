@@ -1,1 +1,3 @@
 # Number-System-Conversion
+From this project, the user can easily convert any number system such as: Binary to decimal, octal, hexadecimal. Decimal to binary, octal, hexadecimal. Octal to binary, decimal, hexadecimal. Hexadecimal to binary, decimal, octal. The user has to choose numbers and then enter the number according to their conversion. This project has made the number system conversion fast and easy for the users. The whole project is designed in ‘C’ Programming language and different variables and strings have been used for the development of this project. This project is easy to operate and understand the users.
+
